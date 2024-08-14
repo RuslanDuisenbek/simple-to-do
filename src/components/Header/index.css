@@ -1,0 +1,50 @@
+.head {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 50px;
+}
+.title {
+  font-family: Inter;
+  font-size: 34px;
+  font-weight: 700;
+  line-height: 38px;
+  text-align: left;
+  color: #151517;
+  width: 630px;
+  height: 38px;
+  gap: 0px;
+  opacity: 0px;
+}
+.descr {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 22px;
+  text-align: left;
+  width: 630px;
+  height: 22px;
+  gap: 0px;
+  opacity: 0px;
+  color: #151517;
+}
+/* .justImg {
+  width: 2.5px;
+  height: 6px;
+  top: 7px;
+  left: 11px;
+  gap: 0px;
+  opacity: 0px;
+  color: #aeaeae;
+} */
+.lists {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 5px;
+}
+.setting {
+  width: 24px;
+  height: 24px;
+  gap: 0px;
+  opacity: 0px;
+}

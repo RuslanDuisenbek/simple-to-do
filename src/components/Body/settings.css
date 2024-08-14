@@ -1,0 +1,40 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  background-color: rgba(0, 0, 0, 0.16);
+  border: none;
+  border-radius: 12px;
+  width: 240px;
+  height: 82px;
+  top: 578px;
+  left: 56px;
+  padding: 12px 0px 12px 0px;
+  gap: 10px;
+  opacity: 0px;
+  position: "absolute";
+}
+.delete {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.backToToDo {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.bttn {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 236px;
+  height: 24px;
+  gap: 12px;
+  opacity: 0px;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}

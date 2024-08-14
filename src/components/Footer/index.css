@@ -1,0 +1,18 @@
+.footr {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 120px;
+}
+.the_last_sentence {
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 18px;
+  text-align: center;
+  color: #081e34;
+  width: 234px;
+  height: 18px;
+  gap: 0px;
+  opacity: 0px;
+}

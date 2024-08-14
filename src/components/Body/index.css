@@ -1,0 +1,39 @@
+.three_buttons {
+  display: flex;
+  flex-direction: row;
+  gap: 9px;
+}
+.buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-right: 40px;
+  margin-bottom: 70px;
+}
+.title_todo {
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 28px;
+  text-align: left;
+  color: #151517;
+}
+.lists {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+  gap: 12px;
+}
+
+.topic {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 15px;
+}
